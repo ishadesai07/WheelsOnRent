@@ -19,3 +19,24 @@ You need to install xampp server to make this project work dynamically(login and
 [PHP Link](https://www.w3schools.com/php/)
 [Readme file Link](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
+### Codes
+| pages              | links                                                                           |
+| :---:              | :---:                                                                           |
+|header              |[Link](https://github.com/ishadesai07/WheelsOnRent/blob/main/header.php)         |
+|index               |[Link](https://github.com/ishadesai07/WheelsOnRent/blob/main/index.php)          |
+|login               |[Link](https://github.com/ishadesai07/WheelsOnRent/blob/main/login.php)          |
+|About.php           |[Link](https://github.com/ishadesai07/WheelsOnRent/blob/main/about.php)          | 
+|add details.php     |[Link](https://github.com/ishadesai07/WheelsOnRent/blob/main/add_details.php)    |
+|authentication.php  |[Link](https://github.com/ishadesai07/WheelsOnRent/blob/main/authentication.php) |
+|blog details        |[Link](https://github.com/ishadesai07/WheelsOnRent/blob/main/blog-details.php)]  |
+|blog                |[Link](https://github.com/ishadesai07/WheelsOnRent/blob/main/blog.php)           |
+|contact information |[Link](https://github.com/ishadesai07/WheelsOnRent/blob/main/contact.php)        |
+|contact insert      |[Link](https://github.com/ishadesai07/WheelsOnRent/blob/main/contactInsert.php)  |
+|dashboard           |[Link](https://github.com/ishadesai07/WheelsOnRent/blob/main/dashboard.php)      |
+|footer              |[Link](https://github.com/ishadesai07/WheelsOnRent/blob/main/footer.php)         |
+|gallery             |[Link](https://github.com/ishadesai07/WheelsOnRent/blob/main/gallery.php)        |
+|logout              |[Link](https://github.com/ishadesai07/WheelsOnRent/blob/main/logout.php)         |
+|navbar              |[Link](https://github.com/ishadesai07/WheelsOnRent/blob/main/navbar.php)         |
+|team                |[Link](https://github.com/ishadesai07/WheelsOnRent/blob/main/team.php)           |
+|template            |[Link](https://github.com/ishadesai07/WheelsOnRent/blob/main/template.php)       |
+|services            |[Link](https://github.com/ishadesai07/WheelsOnRent/blob/main/services.php)       |
